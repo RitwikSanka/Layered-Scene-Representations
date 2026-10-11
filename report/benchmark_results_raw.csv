@@ -1,0 +1,46 @@
+Pipeline,Category,Image,Num_Layers,PSNR,SSIM,LPIPS,WHDR
+Baseline A (Classical),anime,anime_1.png,8,80.0,1.0,3.7291646008165424e-13,0.08346346020698547
+Baseline B (Modular Vision),anime,anime_1.png,3,39.94563293457031,0.9859419465065002,0.004727342166006565,0.002722969511523843
+Baseline C (Depth-Stratified),anime,anime_1.png,3,80.0,1.0,3.7291646008165424e-13,0.0009676571935415268
+Baseline A (Classical),anime,anime_2.png,7,80.0,1.0,4.0218322379034777e-13,0.09232310205698013
+Baseline B (Modular Vision),anime,anime_2.png,4,20.0257568359375,0.9652965068817139,0.08842549473047256,0.025790736079216003
+Baseline C (Depth-Stratified),anime,anime_2.png,3,80.0,1.0,4.0218322379034777e-13,0.0008309921249747276
+Baseline A (Classical),anime,anime_3.png,8,80.0,1.0,3.766852281483768e-13,0.14253033697605133
+Baseline B (Modular Vision),anime,anime_3.png,2,80.0,1.0,3.766852281483768e-13,0.0008787785773165524
+Baseline C (Depth-Stratified),anime,anime_3.png,3,80.0,1.0,3.766852281483768e-13,0.0008787785773165524
+Baseline A (Classical),anime,anime_4.png,9,80.0,1.0,4.54437160644916e-13,0.10000669956207275
+Baseline B (Modular Vision),anime,anime_4.png,2,80.0,1.0,4.54437160644916e-13,0.0010969560826197267
+Baseline C (Depth-Stratified),anime,anime_4.png,3,80.0,1.0,4.54437160644916e-13,0.0010969560826197267
+Baseline A (Classical),anime,anime_5.png,5,80.0,1.0,3.813433130470806e-13,0.151934415102005
+Baseline B (Modular Vision),anime,anime_5.png,2,19.47450828552246,0.9788572192192078,0.029529929161071777,0.025660984218120575
+Baseline C (Depth-Stratified),anime,anime_5.png,3,80.0,1.0,3.813433130470806e-13,0.0008124432642944157
+Baseline A (Classical),photorealistic,photorealistic_1.png,11,80.0,1.0,4.187316183894285e-13,0.10997086018323898
+Baseline B (Modular Vision),photorealistic,photorealistic_1.png,4,25.764780044555664,0.9573171138763428,0.13396604359149933,0.01314843911677599
+Baseline C (Depth-Stratified),photorealistic,photorealistic_1.png,3,80.0,1.0,4.187316183894285e-13,0.0009716881904751062
+Baseline A (Classical),photorealistic,photorealistic_2.png,5,80.0,1.0,3.8493454300805863e-13,0.1400761753320694
+Baseline B (Modular Vision),photorealistic,photorealistic_2.png,2,80.0,1.0,3.8493454300805863e-13,0.0010432483395561576
+Baseline C (Depth-Stratified),photorealistic,photorealistic_2.png,3,80.0,1.0,3.8493454300805863e-13,0.0010432483395561576
+Baseline A (Classical),photorealistic,photorealistic_3.png,7,80.0,1.0,3.598857052210941e-13,0.1090240478515625
+Baseline B (Modular Vision),photorealistic,photorealistic_3.png,4,25.753093719482422,0.9662470817565918,0.09484773874282837,0.011888276785612106
+Baseline C (Depth-Stratified),photorealistic,photorealistic_3.png,3,80.0,1.0,3.598857052210941e-13,0.0007892076973803341
+Baseline A (Classical),photorealistic,photorealistic_4.png,8,80.0,1.0,4.569237241174029e-13,0.11932074278593063
+Baseline B (Modular Vision),photorealistic,photorealistic_4.png,5,80.0,1.0,4.569237241174029e-13,0.0005435001803562045
+Baseline C (Depth-Stratified),photorealistic,photorealistic_4.png,3,80.0,1.0,4.569237241174029e-13,0.0005435001803562045
+Baseline A (Classical),photorealistic,photorealistic_5.png,8,80.0,1.0,4.20838060580242e-13,0.09554632753133774
+Baseline B (Modular Vision),photorealistic,photorealistic_5.png,6,28.664730072021484,0.9578348994255066,0.12395234405994415,0.0100717069581151
+Baseline C (Depth-Stratified),photorealistic,photorealistic_5.png,3,80.0,1.0,4.20838060580242e-13,0.0020068499725311995
+Baseline A (Classical),vector,vector_1.png,7,80.0,1.0,4.039840564937919e-13,0.0929231271147728
+Baseline B (Modular Vision),vector,vector_1.png,2,28.934539794921875,0.9957371354103088,0.013837765902280807,0.005354158580303192
+Baseline C (Depth-Stratified),vector,vector_1.png,3,80.0,1.0,4.039840564937919e-13,0.002650980604812503
+Baseline A (Classical),vector,vector_2.png,7,80.0,1.0,3.7516037910793887e-13,0.10028910636901855
+Baseline B (Modular Vision),vector,vector_2.png,6,21.644800186157227,0.9800788760185242,0.03553803637623787,0.016581008210778236
+Baseline C (Depth-Stratified),vector,vector_2.png,3,80.0,1.0,3.7516037910793887e-13,0.000588263152167201
+Baseline A (Classical),vector,vector_3.png,7,80.0,1.0,4.3488585128870216e-13,0.13476429879665375
+Baseline B (Modular Vision),vector,vector_3.png,2,23.28824806213379,0.9586527347564697,0.10294857621192932,0.01670401729643345
+Baseline C (Depth-Stratified),vector,vector_3.png,3,80.0,1.0,4.3488585128870216e-13,0.0004082293889950961
+Baseline A (Classical),vector,vector_4.png,8,80.0,1.0,4.003712780146357e-13,0.0350206159055233
+Baseline B (Modular Vision),vector,vector_4.png,3,80.0,1.0,4.003712780146357e-13,0.0018961835885420442
+Baseline C (Depth-Stratified),vector,vector_4.png,3,80.0,1.0,4.003712780146357e-13,0.0018961835885420442
+Baseline A (Classical),vector,vector_5.png,7,80.0,1.0,3.746032347165529e-13,0.07832232117652893
+Baseline B (Modular Vision),vector,vector_5.png,4,19.76752471923828,0.9570701718330383,0.12431277334690094,0.02520235814154148
+Baseline C (Depth-Stratified),vector,vector_5.png,3,80.0,1.0,3.746032347165529e-13,0.0006224305252544582

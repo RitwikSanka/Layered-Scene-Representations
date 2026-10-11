@@ -1,0 +1,14 @@
+torch
+torchvision
+diffusers
+transformers
+opencv-python
+gradio
+scikit-image
+numpy
+scipy
+lpips
+piq
+networkx
+matplotlib
+Pillow

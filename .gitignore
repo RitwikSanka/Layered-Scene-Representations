@@ -1,0 +1,21 @@
+# Virtual environment
+venv
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Submission archives
+*.zip
+*.tar.gz
+
+# System logs and caches
+.cache/
+.system_generated/
+*.log
+.ipynb_checkpoints/
